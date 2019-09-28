@@ -17,7 +17,7 @@
     {
       "title": "has a README.md file in the my-repository folder",
       "fullTitle": "this lab has a README.md file in the my-repository folder",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -79,7 +79,7 @@
     {
       "title": "has a README.md file in the my-repository folder",
       "fullTitle": "this lab has a README.md file in the my-repository folder",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
